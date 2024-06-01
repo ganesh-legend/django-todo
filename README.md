@@ -9,7 +9,13 @@ $ git clone https://github.com/shreys7/django-todo.git
 ```
 You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
 
+or run command 
+
+$ pip install django
+
 Once you have downloaded django, go to the cloned repo directory and run the following command
+
+cd django-todo
 
 ```bash
 $ python manage.py makemigrations
